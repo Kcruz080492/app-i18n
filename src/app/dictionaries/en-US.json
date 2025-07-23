@@ -1,0 +1,10 @@
+{
+  "titulo": "Welcome!",
+  "mensaje": "This site is in English.",
+  "extra": "You are seeing the English version of this website.",
+  "form": {
+    "nombre": "Name",
+    "correo": "Email",
+    "enviar": "Send"
+  }
+}
